@@ -1,0 +1,19 @@
+.question {
+    background-color: rgb(177, 177, 228);
+    height: 250px;
+}
+
+.title ,.question ,.text-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+.button-wrapper  {
+    text-align: center;
+}
+
+.play span {
+    color: red;
+}
